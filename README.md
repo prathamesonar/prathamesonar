@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Prathamesh 👋</h1>
 
-As a B.Tech student in **Computer Science and Business Systems (CSBS)**, I am an enthusiastic **MERN Stack developer** with a strong interest in building dynamic, efficient, and user-friendly web applications. My foundation in **C++** and **Java** has shaped my problem-solving mindset and object-oriented programming skills. I am continuously exploring new technologies and frameworks to sharpen my development capabilities and contribute to impactful real-world solutions.
+As a B.Tech student in **Computer Science and Business Systems (CSBS)**, with a strong interest in building dynamic, efficient, and user-friendly web applications. My foundation in **C++** and **Java** has shaped my problem-solving mindset and object-oriented programming skills. I am continuously exploring new technologies and frameworks to sharpen my development capabilities and contribute to impactful real-world solutions.
 
 ---
 
