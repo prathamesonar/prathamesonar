@@ -4,7 +4,7 @@ As a B.Tech student in **Computer Science and Business Systems (CSBS)**, with a 
 
 ---
 
-## 💡 My Technical Profile
+## My Technical Profile
 
 - 💻 **Proficient in Programming:** Skilled in **Java, and JavaScript**, with a strong focus on object-oriented principles and real-world problem-solving.
 - 🚀 **MERN Stack Developer:** Capable of building scalable web applications using MongoDB, Express, React, and Node.js.
