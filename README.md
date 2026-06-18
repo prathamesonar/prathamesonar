@@ -1,49 +1,69 @@
-<h1 align="center">Hello, I'm Prathamesh 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" width="100%" alt="Header Wave"/>
+</div>
 
-As a B.Tech student in **Computer Science and Business Systems (CSBS)**, with a strong interest in building efficient, and user-friendly web applications. My foundation in **JavaScript**  and **Java** has shaped my problem-solving mindset and object-oriented programming skills. I am continuously exploring new technologies and frameworks to sharpen my development capabilities and contribute to impactful real-world solutions.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+I'm+Prathamesh+👋;Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Building,+Always+Learning" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<p align="center">
+  <em>❝ Turning coffee into scalable code and complex problems into elegant solutions. ❞</em>
+</p>
 
-## My Technical Profile
-
--  **Proficient in Programming:** Skilled in **Java, and JavaScript**, with a strong focus on object-oriented principles and real-world problem-solving.
--  **MERN Stack Developer:** Capable of building scalable web applications using MongoDB, Express, React, and Node.js.
--  **Quick Learner:** Passionate about learning modern tech stacks and implementing them in innovative ways.
--  **Frontend & Backend Flexibility:** Hands-on experience with both client-side and server-side development.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages & Core
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🧩 Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
+<div align="center">
+  <a href="https://prathameshsonar-portfolio.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_Visit_My_Portfolio-0f172a?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/prathamesonar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:prathameshsonar170@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Shoot_Me_An_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
+
+<br />
+
+## 👨‍💻 About Me
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Funny Typing GIF" />
+
+I am a recent B.Tech graduate in **Computer Science and Business Systems (CSBS)** with a strong passion for software development. My journey into tech started with a curiosity for how things work, which quickly evolved into a love for building efficient, user-friendly applications that solve real-world problems. 
+
+- Currently working on Advanced full-stack applications using the MERN stack.
+- Currently learning Scalable system design and AI solutions.
+  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css&theme=dark" alt="Languages" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind&theme=dark" alt="Frameworks and Databases" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel&theme=dark" alt="Tools" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamesonar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Prathamesh's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesonar&theme=tokyonight&hide_border=true&background=0D1117" alt="Prathamesh's Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesonar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prathamesonar&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</div>
